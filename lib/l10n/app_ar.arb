@@ -1,0 +1,319 @@
+{
+  "dkkd": "slawww mn arabim",
+  "d": "تسجيل الدخول إلى حسابك",
+  "resturant": "مطعم",
+  "cash": "نقدي",
+
+  "changelanguage": "تغيير اللغة",
+  "history": "تاريخ",
+  "availability": "التوفر",
+  "unavailable": "غير متوفره",
+  "available": "متاح",
+  "manager":"مدير",
+    "service":"خدمة",
+  "basket": "سلة",
+  "food": "طعام",
+  "process": "عملية",
+  "markcomplet": "تم الانتهاء",
+  "notifyservent": "إبلاغ الخادم",
+  "inprocess": "تحت المعالجة",
+  "inbox": "صندوق الوارد",
+  "loan": "يُقرض",
+  "bill": "فاتورة",
+  "male": "ذكر",
+  "female": "أنثى",
+  "balance": "توازن",
+  "deduct": "خصم",
+  "log": "سجل",
+  "storname": "اسم المتجر",
+  "grand": "منحة",
+  "ordertracking": "تتبع الطلب",
+  "sortbytime": "فرز حسب الوقت",
+  "success": "أوامر ناجحة",
+
+  "depost": "إيداع",
+  "confirmprint": "تأكيد وطباعة",
+  "payloan": "دفع القرض",
+  "amount": "كمية",
+  "managment": "إدارة",
+  "lowinstok": "انخفاض في المخزون ",
+  "monthtopcosumables": "أعلى المواد الاستهلاكية الشهرية",
+  "supplies": "لوازم",
+  "nearlyexpired": "انتهت صلاحيتها تقريبًا",
+  "totalern": "إجمالي الكسب",
+  "managecatagory": "إدارة الفئات",
+  "gender": "جنس",
+  "age": "عمر",
+  "chef": "رئيس",
+  "security": "حماية",
+  "reseption": "استقبال",
+  "capitan": "قائد المنتخب",
+  "garson": "جارسون",
+  "absentday": "أيام الغياب",
+  "dashboard": "لوحة القيادة",
+  "menumanagment": "إدارة القائمة",
+  "tablemanagment": "إدارة الجدول",
+  "staff": "طاقم عمل",
+  "orderhistory": "تاريخ الطلب",
+  "ordertraking": "تتبع الطلب",
+  "specialgusted": "الضيوف الخاصين",
+  "populerfood": "طعام بوبولر",
+  "popularday": "يوم السكان",
+  "purchaseoverview": "نظرة عامة على الشراء",
+  "revenue": "ربح",
+  "noofpurchase": "رقم الشراء",
+
+  "paid": "مدفوع",
+  "wating": "منتظر",
+  "sendorder": "ارسال الطلب",
+  "orderchif": "هل تريد إرسال الطلب إلى الشيف؟",
+  "notification": "إشعار",
+  "tablenum": "رقم الطاولة",
+  "reseved": "محجوز",
+  "occupied": "مشغول",
+  "returnorder": "ترتيب معاد",
+  "faildorder": "طلب فاشل",
+  "technicalisu": "مسألة تقنية",
+  "other": "آخر",
+  "breakfast": "إفطار",
+  "soup": "حساء",
+  "sandwiches": "شطائر",
+  "burger": "برجر",
+  "pasta": "معكرونة",
+  "pizza": "بيتزا",
+  "salads": "سلطة",
+  "desserts": "حلويات",
+  "crepe": "كريب",
+  "drink": "يشرب",
+  "singin": "تسجيل الدخول",
+  "email": "بريد إلكتروني",
+  "password": "كلمة السر",
+  "vaildemail": "أدخل بريدًا إلكترونيًا صالحًا  ",
+  "vaildpassword": "كلمة المرور غير صالحة",
+  "forgetpass": "نسيت كلمة السر؟",
+  "possystem": "نقاط البيع",
+  "scancode": "مسح الرمز الشريطى",
+  "nametitle": "ملابس المانجو",
+  "customer": "عميل",
+  "customertype": "حدد نوع العملاء",
+  "byhandcustomer": "باليد العملاء",
+  "ourcustomer": "عملائنا",
+  "delivery": "توصيل",
+  "ordernow": "الطلب الحالي",
+  "add": "أضف الثلج",
+  "item": "غرض",
+  "subtotal": "المجموع الفرعي",
+  "discount": "تخفيض",
+  "totalprice": "السعر الكلي",
+  "printinvoce": "فاتورة طباعة",
+  "user": "مستخدم",
+  "product": "منتجات",
+  "listorder": "لائحة الطلبات",
+  "checkout": "الدفع",
+  "setting": "الإعدادات",
+  "logout": "الخروج",
+  "search": "يبحث",
+  "delete": "يمسح",
+  "edit": "يحرر",
+  "grop": "مجموعة",
+
+  "viwedetail": "عرض التفاصيل",
+  "cancle": "إلغاء",
+  "country": "دولة",
+  "custemorsname": "اسم الكوستيمورس",
+  "phone": "رقم التليفون",
+  "address": "سطر العنوان الأول ",
+  "addersstow": "سطر العنوان الثاني",
+  "provinse": "بروفينس",
+  "city": "مدينة",
+  "note": "ملحوظة",
+  "countryvalid": "فحص البلد",
+  "custemorsnamevaild": "التحقق من اسم الوكلاء",
+  "phonevaild": "فحص الهاتف",
+  "addressvaild": "فحص سطر العنوان الأول ",
+  "addersstowvaild": "فحص سطر العنوان الثاني",
+  "provinsevaild": "فحص Provinse",
+  "cityvaild": "فحص المدينة",
+  "notevaild": "فحص الملاحظة",
+  "addcustomer": "أضف العملاء",
+  "editcustomer": "تحرير العملاء",
+  "name": "Name",
+  "deletcustomermessege": "   يتم حذف عميلك",
+  "customerdetailview": "عرض تفاصيل العميل  ",
+  "username":"اسم المستخدم",
+  "orderdate": " تاريخ الطلب",
+  "qty": "الكمية",
+  "price": "سعر",
+  "status": "حالة",
+  "active": "نشيط",
+  "inactive": "غير نشط",
+  "userdeletmessege": " تم حذف المستخدم",
+  "addproduct": "أضف منتج",
+  "categories": "فئات",
+  "brands": "العلامات التجارية",
+  "suppliers": "الموردين",
+  "inventory": " جرد",
+  "sortby": "ترتيب حسب",
+  "id": "بطاقة تعريف",
+  "saleprice": " سعر البيع ",
+  "stockoverview": " نظرة عامة على المخزون ",
+  "productcode": " كود المنتج",
+  "image": "صورة",
+  "all": "الجميع",
+  "productname": "اسم المنتج",
+  "productbrand": "العلامة التجارية المنتج",
+  "catagoryname": "اسم التصنيف",
+  "catagorycode": "  كود المنتج",
+  "catagorycodetype": " نوع رمز المنتج",
+  "imageupload": " تحميل الصور",
+  "expiry": "انقضاء",
+  "cost": "التكلفة $",
+  "upload": "رفع",
+  "bulkrate": "معدل بالجملة",
+  "discountratetype": "نوع سعر الخصم",
+  "discountpercntage": "نسبة الخصم٪",
+  "dolar": "$",
+  "discountamount": "مقدار الخصم",
+  "description": "وصف",
+  "bulkprice": "سعر الجملة",
+  "expriydate": "تاريخ الانتهاء",
+  "addcatagory": " إضافة فئة",
+  "editcatagory": "تحرير الفئة ",
+  "brandname": "اسم العلامة التجارية",
+  "addbrand": "أضف العلامة التجارية",
+  "editbrand": "تحرير العلامة التجارية",
+  "addsuplier": "إضافة مورد",
+  "supliername": "اسم المورد",
+  "anotheremail": "عنوان بريد إلكتروني آخر",
+  "idorder": "طلب الهوية",
+  "date": "تاريخ",
+  "by": "بواسطة",
+  "complete": "مكتمل",
+  "pending": "قيد الانتظار",
+  "canceled": "ألغيت",
+  "exportcsv": "تصدير CSV",
+  "usename": "اسم المستخدم",
+  "showworder": "عرض النظام",
+  "oderdate": "تاريخ الطلب",
+  "showsuplier": "عرض المورد",
+  "detail": "التفاصيل",
+  "productdetail": "تفاصيل المنتج",
+  "avarageprice": "متوسط السعر",
+  "bulksale": "البيع بالجملة",
+  "unitsale": "بيع الوحدة",
+  "quantity": "كمية",
+  "type": "نوع",
+  "searchby": "البحث بواسطة",
+  "barcode": "ماسح الباركود",
+  "invoice": "فاتورة",
+  "permition": "إذن",
+  "unitprice": "سعر الوحدة",
+  "selectitem": "حدد البند",
+  "unitclass": "فئة الوحدة",
+  "editproduct": "تحرير المنتج",
+  "adduser": "إضافة مستخدم",
+  "confirmpassword": "تأكيد كلمة المرور",
+  "showroom": "معرض",
+  "unit": "وحدة",
+  "unitname": "إسم الوحدة",
+  "report": "تقرير",
+  "to": "إلى",
+  "performance": "أداء",
+  "yesterday": "أمس",
+  "today": "اليوم",
+  "thisweek": "هذا الاسبوع",
+  "last7day": "اخر 7 ايام",
+  "thismonth": "هذا الشهر",
+  "supplier": "المورد",
+"payment": "قسط",
+  "custom": "مخصص",
+  "reportsale": "تقرير البيع",
+  "salebycasher": "البيع عن طريق الصراف",
+  "salebyproduct": "البيع بالمنتج ",
+  "chart": "جدول",
+  "chartsale": "مخطط البيع",
+  "totalsale": "إجمالي البيع",
+  "order": "فەرمانەکان",
+  "itemsold": "تم بيع العنصر",
+  "topsale": "البيع الرئيسي",
+  "mainproduct": "المنتج الرئيسي",
+  "maincatagory": "الفئة الرئيسية",
+  "addunit": "أضف وحدة",
+  "admin": "مسؤل",
+  "casher": "كاشير",
+  "moderator": "الوسيط",
+  "returne": "إرجاع",
+  "folder": "السجلات",
+  "batchnumber": "رقم الدفعة",
+  "moveproduct": "نقل المنتج",
+  "original": "إبداعي",
+  "manual": "يدوي",
+  "normal": "ئاسایی",
+  "alert": "ئاگاداری",
+  "critical": "گرنگ",
+  "message": "نامە",
+  "action": "کردار",
+  "duration": "ماوە",
+  "collectioncode": "كود التحصيل",
+  "contactpersonname": "اسم شخص الاتصال",
+  "purchase": "سعر الشراء",
+  "error": " ليس لديك هذا المنتج الرجاء إضافة"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,335 @@
+{
+  "dkkd": "slawww mn kurdim",
+  "d": "بچۆرە ناو هەژمارەكەت",
+  "cash": "نەختی",
+
+  "resturant": "چێشتخانە",
+  "changelanguage": "گۆڕینی زمان",
+  "history": "مێژوو",
+  "availability": "بەردەست بوون",
+  "unavailable": "بەردەست نییە",
+  "available": "بەردەست",
+  "manager":"بەڕێوەبەر",
+    "service":"خزمەتگوزاری",
+  "basket": "سەبەتە",
+  "food": "خواردن",
+  "male": "نێر",
+  "female": "مێ",
+  "process": "پرۆسە",
+  "markcomplet": "تەواو بووە",
+  "notifyservent": "خزمەتکار ئاگادار بکەرەوە",
+  "sortbytime": "ڕیزبەندی بەپێی کات",
+  "success": "فەرمانە سەرکەوتووەکان",
+  "inprocess": "لە پرۆسەکەدا",
+  "inbox": "لە سندوقدا",
+  "balance": "باڵانس",
+  "deduct": "لێبڕین",
+  "depost": "پارە دانان",
+  "confirmprint": "پشتڕاستکردنەوە و چاپکردن",
+  "payloan": "قەرز بدە",
+  "amount": "بڕ",
+  "log": "تۆمارکردن",
+  "storname": "ناوی فرۆشگا",
+  "grand": "بەخشین",
+  "ordertracking": "بەدواداچوونی داواکاری",
+
+  "managment": "بەڕێوەبردن",
+  "lowinstok": "کەم لە کۆگادایە",
+  "monthtopcosumables": "مانگانە سەرەوە بەکارهێنراوەکان",
+  "supplies": "پێداویستییەکان",
+  "nearlyexpired": "نزیکە لە بەسەرچوون",
+  "dashboard": "داشبۆرد",
+  "paid": "پارەی دا",
+  "wating": "چاوەڕوان کردن",
+  "loan": "قەرز",
+  "chef": "سەرۆک",
+  "security": "ئاسایش",
+  "reseption": "پرسگە",
+  "capitan": "کاپتن",
+  "garson": "گارسۆن",
+  "bill": "پسوولە",
+  "totalern": "کۆی گشتی داهات",
+  "managecatagory": "بەڕێوەبردنی پۆلەکان",
+  "gender": "ڕەگەز",
+  "age": "تەمەن",
+  "absentday": "ڕۆژانی ئامادەنەبوون",
+  "menumanagment": "بەڕێوەبردنی مینیو",
+  "tablemanagment": "بەڕێوەبردنی مێز",
+  "staff": "ستاف",
+  "orderhistory": "مێژووی فەرمانەکان",
+  "ordertraking": "بەدواداچوونی داواکاری",
+  "specialgusted": "میوانی تایبەت",
+  "populerfood": "خواردنی بەناوبانگ",
+  "popularday": "ڕۆژی جەماوەر",
+  "purchaseoverview": "تێڕوانینێکی گشتی بۆ کڕین",
+  "revenue": "داهات",
+  "noofpurchase": "ژمارەی کڕین",
+  "sendorder": "ناردنی داواکاری",
+  "orderchif": "دەتەوێت داواکاری بنێری بۆ چێشتلێنەر ؟",
+  "notification": "ئاگادارکردنەوە",
+  "tablenum": "ژمارەی خشتە",
+  "reseved": "تەرخانکراوە",
+  "occupied": "داگیرکراوە",
+  "returnorder": "ڕێکخستنی ڕیکخراو",
+  "faildorder": "فەرمانی شکستخواردوو",
+  "technicalisu": "کێشەی تەکنیکی",
+  "other": "ئی تر",
+  "breakfast": "نانی بەیانی",
+  "soup": "شۆربا",
+  "sandwiches": "ساندویچ",
+  "burger": "بەرگر",
+  "pasta": "پاستا",
+  "pizza": "پیتزا",
+  "salads": "زەڵاتە",
+  "desserts": "شیرینیەکان",
+  "crepe": "کرێپ",
+  "drink": "خواردنەوە",
+  "singin": "چوونە ژوورەوە",
+  "email": "ئیمەیڵ",
+  "password": "وشەی نهێنی",
+  "vaildemail": "ئیمەیڵی دروست داخڵ بکە ",
+  "vaildpassword": " وشەی نهێنی دروست نییە",
+  "forgetpass": "وشەی نهێنیت لەبیر كردووە ؟",
+  "possystem": " خاڵی فرۆشتن",
+  "scancode": "سکان بارکۆد",
+  "nametitle": "جل و بەرگی مانگۆ",
+  "customer": "کڕیار",
+  "customertype": "جۆری کڕیاران هەڵبژێرە ",
+  "byhandcustomer": "لەلایەن کڕیارانی دەستی",
+  "ourcustomer": "کریارەکانمان",
+  "delivery": "گەیاندن",
+  "ordernow": "داواکاری ئێستا",
+  "add":"زیادکردن",
+  "item": "کەلوپەل",
+  "subtotal": "کۆی گشتی",
+  "discount": "داشکان",
+  "totalprice": "نرخی گشتی",
+  "printinvoce": "فاکتورەی چاپکردن",
+  "user": "بەکارهێنەر",
+  "product": "بەرهەمەکان",
+  "listorder": "لیستی داواکارییەکان",
+  "checkout": "پشکنین",
+  "setting": "ڕێکخستنەکان",
+  "logout": "دەرچوون",
+  "search": "گەڕان",
+  "delete": "سڕینەوە",
+  "edit": "دەستکاریکردن",
+  "viwedetail": "بینینی وردەکارییەکان",
+  "cancle": "ڕەتکردنەوە",
+  "country": "وڵات",
+  "custemorsname": "ناوی کڕیاران",
+  "phone": "ژمارەی تەلەفۆن",
+  "address": "ناونیشان  یەکەم",
+  "addersstow": "ناونیشان دووەم",
+  "provinse": "پارێزگا",
+  "city": "شار",
+  "note": "تێبینی",
+  "countryvalid": "وڵاتی پشکنیوە",
+  "custemorsnamevaild": " پشکنیوە ناوی  کڕیاران",
+  "phonevaild": " مۆبایلەکەی پشکنیوە",
+  "addressvaild": " هێڵی ناونیشانی یەکەمی پشکنی ",
+  "addersstowvaild": "هێڵی ناونیشانی دووەمی پشکنی",
+  "provinsevaild": "پرۆڤینسی پشکنی",
+  "cityvaild": "سیتی پشکنی",
+  "notevaild": " تێبینی",
+  "addcustomer": "زیادکردنی کڕیاران",
+  "editcustomer": "دەستکاریکردنی کڕیاران",
+  "name": "ناو",
+  "deletcustomermessege": "کڕیارەکەت دەسڕدرێتەوە",
+  "customerdetailview": "بینینی وردەکارییەکانی کڕیار",
+  "username":"ناوی بەکارهێنەر",
+  "orderdate": "ڕۆژی داواکردن",
+  "qty": "بڕ",
+  "price": "نرخ",
+  "status": "دۆخ",
+  "active": "چالاک",
+  "inactive": "ناچالاک",
+  "userdeletmessege": "بەکارهێنەر سڕاوەتەوە",
+  "addproduct": "زیادکردنی بەرهەم",
+  "categories": "پۆلەکان",
+  "brands": "براندەکان",
+  "suppliers": "دابینکەران",
+  "inventory": "لیستی کەلوپەل",
+  "sortby": "ڕێکخستن بەپێی",
+  "id": "ناسنامە",
+  "saleprice": "نرخی فرۆشتن ",
+  "stockoverview": "تێڕوانینێکی گشتی بۆ کۆگاکان",
+  "productcode": " کۆدی بەرهەم",
+  "image": "وێنە",
+  "all": "گشت",
+  "productname": "ناوی بەرهەم",
+  "productbrand": "مارکەی بەرهەم",
+  "catagoryname": "ناوی پۆل",
+  "catagorycode": "کۆدی بەرهەم",
+  "catagorycodetype": "جۆری کۆدی بەرهەم",
+  "imageupload": "وێنە باربکە",
+  "expiry": "بەسەرچوون",
+  "cost": "$ تێچوون",
+  "upload": "بارکردن",
+  "bulkrate": "ڕێژەی بەکۆمەڵ",
+  "discountratetype": "جۆری ڕێژەی داشکاندن ",
+  "discountpercntage": "ڕێژەی داشکاندن % ",
+  "dolar": "$",
+  "discountamount": "بڕی داشکاندن",
+  "description": "وەسف کردن",
+  "bulkprice": " نرخی کۆ",
+  "expriydate": "بەرواری بەسەرچوون",
+  "addcatagory": "زیادکردنی پۆل",
+  "editcatagory": "دەستکاری پۆل بکە ",
+  "brandname": "ناوی مارکە",
+  "addbrand": "زیادکردنی براند",
+  "editbrand": "دەستکاری براند",
+  "addsuplier": "دابینکەر زیاد بکە",
+  "supliername": "ناوی دابینکەر",
+  "anotheremail": "ناونیشانێکی تری ئیمەیڵ",
+  "idorder": "داواکاری ناسنامە",
+  "date": "بەروار",
+  "by": "لەلایەن",
+  "complete": "تەواو بێت",
+  "pending": "لە چاوەڕوانیدا",
+  "canceled": "هەڵوەشێنراوەتەوە",
+  "exportcsv": "هەناردەکردنی CSV",
+  "usename": "ناوی بەکارهێنەر",
+  "showworder": "داواکاریەکان پیشان بدە",
+  "oderdate": "بەرواری داواکردن",
+  "showsuplier": "پیشاندانی دابینکەر",
+  "detail": "وردەکاری",
+  "productdetail": "وردەکاری بەرهەمەکە",
+  "avarageprice": "تێکڕای نرخ",
+  "bulksale": "فرۆشتنی بەکۆمەڵ",
+  "unitsale": "فرۆشتنی یەکە",
+  "quantity": "بڕ",
+  "type": "جۆر",
+  "searchby": "گەڕان بە",
+  "barcode": "سکانەری بارکۆد",
+  "invoice": "پسوولە",
+  "permition": "ڕێپێدان",
+  "unitprice": "نرخى يەكە",
+  "selectitem": "بابەتی هەڵبژێرە",
+  "unitclass": "پۆلی یەکە",
+  "editproduct": "دەستکاریکردنی بەرهەم",
+  "adduser": "زیادکردنی بەکارهێنەر",
+  "confirmpassword": "وشەی نهێنی پشتڕاست بکەوە",
+  "showroom": "پێشانگاکە",
+  "unit": "یەکە",
+  "unitname": "ناوی یەکە",
+  "report": "ڕاپۆرت",
+  "to": "بۆ",
+  "performance": "ئەدای کارکردن",
+  "yesterday": "دوێنێ",
+  "today": "ئەمڕۆ",
+  "thisweek": "ئەم هەفتەیە",
+  "last7day": "٧ ڕۆژی ڕابردوو",
+  "thismonth": "ئەم مانگە",
+  "custom": "بە خواستی خۆت",
+  "reportsale": "ڕاپۆرتی فرۆشتن",
+  "salebycasher": "فرۆشتن لەلایەن کاشێر",
+  "salebyproduct": "فرۆشتن بە بەرهەم ",
+  "chart": "هێڵکاری",
+  "chartsale": "هێڵکاری فرۆشتن",
+  "totalsale": "کۆی گشتی فرۆشتن",
+  "order": "فەرمانەکان",
+  "itemsold": "بابەتی فرۆشراو",
+  "topsale": "فرۆشتنی سەرەکی",
+  "mainproduct": "بەرهەمی سەرەکی",
+  "maincatagory": "پۆلی سەرەکی",
+  "addunit": "زیادکردنی یەکە",
+  "admin": "ئەدمین",
+  "supplier": "دابینکەر",
+  "payment": "پارەدان",
+  "grop": "گروپ",
+
+  "casher": "کاشێر",
+  "moderator": "سەرپەرشتیار",
+  "returne": "گەڕانەوە",
+  "folder": "لۆگەکان",
+  "batchnumber": "ژمارەی وەجبە",
+  "moveproduct": "بەرهەمەکە بگوازەرەوە",
+  "original": "ئەسڵی",
+  "manual": "دەستنووس",
+  "normal": "ئاسایی",
+  "alert": "ئاگاداری",
+  "critical": "ڕەخنەگرانە",
+  "message": "پەیام",
+  "action": "کردار",
+  "duration": "ماوەی",
+  "collectioncode": "کۆدی کۆکردنەوە",
+  "contactpersonname": "ناوی کەسی پەیوەندیدار",
+  "purchase": "نرخی كڕین",
+  "error": " ئەم بەرهەمەت نییە تکایە زیاد بکە"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
